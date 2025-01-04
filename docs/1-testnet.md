@@ -6,7 +6,13 @@ slug: /testnet
 
 # Amichain TestNet
 
+Our testnet chain is the sandbox chain where we can experiment and build new projects.  
+On this page, you can find all useful info to connect and interact with AMIChain testnet.
+
 ## Chain information
+Here are the connection info for AmiChain network.  
+You can also [connect to AmiChain with Metamask](https://add.amichain.org).
+
 | Chain Name               | Amichain                                                                                                                        |
 |--------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | Chain ID                 | 588785741                                                                                                                       |
@@ -14,7 +20,9 @@ slug: /testnet
 | RPC Url                  | https://devnet.l1launcher.com/ext/bc/ahvT5wo4mXyGzijLopFexdmKLrwXJ6YUpHwAoYts6UwmWvLc1/rpc                                      |
 | Explorer Url (temporary) | https://explorer.l1launcher.com/?rpc=https://devnet.l1launcher.com/ext/bc/ahvT5wo4mXyGzijLopFexdmKLrwXJ6YUpHwAoYts6UwmWvLc1/rpc |
 
-## Contracts addresses
+## Dex addresses
+Here are the addresses of the DEX (AMM) contracts.
+It is based on Uniswap V2.
 
 | Name       | Description                                                                                           | Address                                    |
 |------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------|
