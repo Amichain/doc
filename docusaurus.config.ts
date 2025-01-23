@@ -53,7 +53,7 @@ const config: Config = {
 				},
 			],
 		},
-		/*footer: {
+		footer: {
 			style: 'dark',
 			links: [
 				{
@@ -67,15 +67,14 @@ const config: Config = {
 							label: 'X',
 							href: 'https://twitter.com/amiavax',
 						},
-						// @TODO...
 					],
 				},
 			],
-		},*/
+		},
 		prism: {
 			theme: prismThemes.github,
 			darkTheme: prismThemes.dracula,
-		},
+		}
 	} satisfies Preset.ThemeConfig,
 };
 

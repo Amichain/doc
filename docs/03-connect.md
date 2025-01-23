@@ -8,7 +8,7 @@ slug: /connect
 
 This is a framework-agnostic JavaScript component that connects any wallet on any chain to your website or dApp.
 
-This component is built with Svelte and leverages our [chain list](./chainlist) for seamless integration across any EVM chain.
+This component is built with Svelte and leverages our [chain list](/chainlist) for seamless integration across any EVM chain.
 
 # Why another connect component?
 
@@ -21,3 +21,7 @@ There are many nice wallet connection components out there, but most of them don
 As a result, developers using other frameworks, as well as beginners, often struggle.
 
 That's why we aim to build this connect component that works with any framework, any EVM chain, and any wallet, offering essential features along with UI customization options.
+
+:::note WIP
+This project is not available yet, stay tuned!
+:::

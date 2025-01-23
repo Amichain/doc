@@ -11,18 +11,24 @@ On this page, you can find all useful info to connect and interact with AMIChain
 
 ## Chain information
 Here are the connection info for AmiChain network.  
-You can also [connect to AmiChain with Metamask](https://add.amichain.org).
+You can also [connect to AmiChain with Metamask with our ChainList app](https://chainlist.amichain.org).
 
-| Chain Name               | Amichain                              |
-|--------------------------|---------------------------------------|
-| Chain ID                 | 588785741                             |
-| Native token             | AMI                                   |
-| RPC Url                  | https://testnet-rpc.amichain.org      |
-| Explorer Url (temporary) | https://testnet-explorer.amichain.org |
+| Chain Name               | Amichain                                                                       |
+|--------------------------|--------------------------------------------------------------------------------|
+| Chain ID                 | 588785741                                                                      |
+| Native token             | AMI                                                                            |
+| RPC Url                  | [https://testnet-rpc.amichain.org](https://testnet-rpc.amichain.org)           |
+| WebSocket                | [wss://testnet-ws.amichain.org](wss://testnet-ws.amichain.org)                 |
+| Explorer Url (temporary) | [https://testnet-explorer.amichain.org](https://testnet-explorer.amichain.org) |
+| Faucet                   | [https://testnet-faucet.amichain.org](https://testnet-faucet.amichain.org)     |
 
 ## Dex addresses
 Here are the addresses of the DEX (AMM) contracts.
 It is based on Uniswap V2.
+
+:::note WIP
+    Smart contracts have not been deployed yet; this is part of the [`Dex`](/dex) section of our roadmap.
+:::
 
 | Name       | Description                                                                                           | Address |
 |------------|-------------------------------------------------------------------------------------------------------|---------|
