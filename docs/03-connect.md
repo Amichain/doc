@@ -8,7 +8,7 @@ slug: /connect
 
 This is a framework-agnostic JavaScript component that connects any wallet on any chain to your website or dApp.
 
-This component is built with Svelte and leverages our [chain list](/chainlist) for seamless integration across any EVM chain.
+This component is built with Svelte and leverages our [chain list](/chainlist/app) for seamless integration across any EVM chain.
 
 # Why another connect component?
 
