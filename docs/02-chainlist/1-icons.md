@@ -14,7 +14,7 @@ A list of chain icons.
 
 Each icon can be accessed directly in GitHub raw:
 ```
-https://github.com/Amichain/chain-icons/blob/main/<ext>/<chain-id>.<ext>>?raw=true
+https://github.com/Amichain/chain-icons/blob/main/<ext>/<chain-id>.<ext>?raw=true
 ```
 
 However, this method has some limitations and cannot be used in HTML `<img>` tags due to CORS policy.
