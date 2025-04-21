@@ -4,6 +4,16 @@ sidebar_label: TestNet
 slug: /testnet
 ---
 
+:::danger Under maintenance
+Amichain testnet is actually under maintenance.   
+Here are the changes that will be made:
+- Migration to a new infrastructure.
+- New chain configuration that matches Amichain mainnet.
+- Run 5 validator nodes rather than only one.
+
+Sorry for the inconvenience, and thank you for your patience!
+:::
+
 # Amichain TestNet
 
 Our testnet chain is the sandbox chain where we can experiment and build new projects.  
