@@ -39,3 +39,22 @@
 	align-items: center;
 	gap: 10px;
 }
+
+.button-square {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+	top: 2px;
+	appearance: none;
+	border: 1px solid var(--ifm-table-border-color);
+	border-radius: 10px;
+	padding: 4px;
+	margin: 0 2px;
+	cursor: pointer;
+	color: var(--ifm-font-color-base) !important;
+	background: var(--ifm-pre-background);
+}
+.button-square:hover {
+	background: var(--ifm-hover-overlay);
+}
