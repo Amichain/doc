@@ -47,7 +47,7 @@ const config: Config = {
 					position: 'right',
 				},
 				{
-					href: 'https://amiavax.com/',
+						href: 'https://amichain.org/',
 					label: 'Website',
 					position: 'right',
 				},
@@ -65,7 +65,7 @@ const config: Config = {
 						},
 						{
 							label: 'X',
-							href: 'https://twitter.com/amiavax',
+							href: 'https://twitter.com/amichain',
 						},
 					],
 				},
