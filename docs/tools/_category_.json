@@ -1,0 +1,9 @@
+{
+  "label": "AMI Tools Hub",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "slug": "/tools",
+    "description": "Ami Tools Hub is your one-stop crypto tools platform (dApp)."
+  }
+}

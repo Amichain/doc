@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 9
 sidebar_label: TestNet
 slug: /testnet
 ---
@@ -7,6 +7,8 @@ import ClipboardCopy from '@site/src/components/ClipboardCopy'
 import ExternalLink from '@site/src/components/ExternalLink'
 
 # Amichain TestNet
+
+AMIChain TestNet information.
 
 Our testnet chain is the sandbox chain where we can experiment and build new projects.  
 On this page, you can find all useful info to connect and interact with AMIChain testnet.

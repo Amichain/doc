@@ -8,6 +8,8 @@ import ExternalLink from '@site/src/components/ExternalLink'
 
 # Amichain MainNet
 
+AMIChain MainNet information.
+
 ## Chain information
 Here are the connection info for AmiChain network.
 You can also [connect to AmiChain with Metamask with our ChainList app](https://chainlist.amichain.org).

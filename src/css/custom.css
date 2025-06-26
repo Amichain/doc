@@ -29,32 +29,57 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+/** Custom category icon **/
 .custom-icon {
 	height: 32px;
 	width: 32px;
 }
+.custom-icon:empty {
+	display: none;
+}
 
+/** Custom button **/
 .button {
 	display: inline-flex;
 	align-items: center;
 	gap: 10px;
+	min-height: 34px;
+	padding: 0 10px;
+	margin-left: 5px;
+}
+.button > span:empty {
+	display: none;
+}
+.button > span:not(:empty) {
+	display: inline-flex;
+	align-items: center;
+	gap: 8px;
+}
+.button + p {
+	margin-top: 5px;
+	margin-left: 8px;
 }
 
-.button-square {
+/** API Method **/
+[class^="api-method-"] {
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
-	position: relative;
-	top: 2px;
-	appearance: none;
-	border: 1px solid var(--ifm-table-border-color);
 	border-radius: 10px;
-	padding: 4px;
-	margin: 0 2px;
-	cursor: pointer;
-	color: var(--ifm-font-color-base) !important;
-	background: var(--ifm-pre-background);
+	padding: 0 10px;
+	margin: 0 2px 0 -5px;
+	font-weight: bold;
 }
-.button-square:hover {
-	background: var(--ifm-hover-overlay);
+
+.api-method-get {
+	background: #2d66c3;
+}
+
+/** Custom icon for "ami tools hub" items **/
+.menu__link[href="/tools"]:before {
+	content: '';
+	height: 22px;
+	width: 22px;
+	margin-right: 8px;
+	background: url(/static/img/ami-tools-logo-rgb.svg) no-repeat;
 }

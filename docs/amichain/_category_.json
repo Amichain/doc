@@ -1,0 +1,9 @@
+{
+  "label": "AMIChain",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "slug": "/amichain",
+    "description": "AMIChain information for testnet & mainnet"
+  }
+}

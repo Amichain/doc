@@ -17,7 +17,7 @@ const ClipboardCopy = (props) => {
 		}
 	}
 	return <button
-		className={'button-square'}
+		className={'button button--outline button--secondary'}
 		onClick={onCopy}
 	>
 		<Icon />
